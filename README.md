@@ -15,7 +15,7 @@ Infrastructure Team Lead at [Lab Digital](https://www.labdigital.nl).
 - [labd/commercetools-go-sdk](https://github.com/labd/commercetools-go-sdk) - Go SDK for commercetools (1 month ago)
 - [labd/mach-component-aws-commercetools-token-refresher](https://github.com/labd/mach-component-aws-commercetools-token-refresher) - Terraform module that runs a Lambda function to auto-refresh commercetools auth tokens in AWS Secrets Manager (7 months ago)
 - [labd/mach-composer](https://github.com/labd/mach-composer) - MACH composer is an orchestration tool for modern MACH ecosystems, powered by Terraform infrastructure-as-code underneath. (9 months ago)
-- [labd/terraform-provider-commercetools](https://github.com/labd/terraform-provider-commercetools) - Terraform provider for commercetools (11 months ago)
+- [labd/terraform-provider-commercetools](https://github.com/labd/terraform-provider-commercetools) - Terraform provider for commercetools (1 year ago)
 
 
 
